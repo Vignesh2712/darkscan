@@ -1,9 +1,9 @@
 
   
 # Installation
-git clone https://github.com/Vignesh2712/darkscan.git
-cd Darkscan
-python3 darkscan.py
+'git clone https://github.com/Vignesh2712/darkscan.git'
+'cd Darkscan'
+'python3 darkscan.py'
   
 
 # DEMO : 
